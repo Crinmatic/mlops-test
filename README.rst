@@ -1,4 +1,4 @@
-Introduction to MLflow for MLOps Part 3: Database Tracking, Minio Artifact Storage, and Registry
+Introduction to MLflow for MLOps Part 3: Database Tracking, Google Cloud Storage, and Registry
 ================================================================================================
 
 After following along with the demos in this three-part repository you will be able to:
