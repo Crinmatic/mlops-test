@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mac/mlflow_part3_PostgresMinioRegistry/mlruns/0/6762b33d9d954c319c95c8b8eff8fb1b/artifacts
+end_time: 1658366066223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6762b33d9d954c319c95c8b8eff8fb1b
+run_uuid: 6762b33d9d954c319c95c8b8eff8fb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658366064203
+status: 3
+tags: []
+user_id: mac
